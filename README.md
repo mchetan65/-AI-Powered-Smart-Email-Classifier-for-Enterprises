@@ -86,7 +86,7 @@ Applied the following cleaning steps to all emails:
 ## Project Structure
 
 ```
-Infosys/
+AI-Powered-Smart-Email-Classifier-for-Enterprises-main/
 |-- data_hub/
 |   |-- Classification_Dataset/
 |   |   |-- Raw_Dataset/              # Original data files
@@ -97,6 +97,11 @@ Infosys/
 |       |-- Raw_Dataset/              # train.csv, test.csv, validation.csv
 |       |-- Cleaned_Dataset/          # Cleaned versions
 |       `-- data_cleaning.py          # Cleaning script
+|
+|-- Documents/                        # Project documentation files
+|   |-- Chetan_Agile.xlsx
+|   |-- Chetan_Defect_Tracker.xlsx
+|   `-- Chetan_Unit_Test_Plan.xlsx
 |
 `-- README.md
 ```
