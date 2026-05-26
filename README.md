@@ -4,8 +4,6 @@
 
 ## Milestone 1: Data Collection & Preprocessing
 
----
-
 ## Overview
 
 This project builds an AI-powered email classification system for enterprises. Milestone 1 focuses on collecting and cleaning email datasets for training machine learning models.
